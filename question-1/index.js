@@ -1,3 +1,6 @@
+// Nathan Power - 101247770
+// GitHub Repo - https://github.com/nate-power/comp3123_test1
+
 const mixedArray = ['PIZZA', 10, true, 25, false, 'Wings'];
 let lowerCaseWords = (mixedArray) => {
     // functionality to get all strings from the mixed array

@@ -1,3 +1,6 @@
+// Nathan Power - 101247770
+// GitHub Repo - https://github.com/nate-power/comp3123_test1
+
 let remove = require('./remove');
 let add = require('./add');
 
