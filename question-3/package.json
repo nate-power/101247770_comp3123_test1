@@ -2,10 +2,10 @@
   "name": "question-3",
   "version": "1.0.0",
   "description": "Adding and Removing Log files",
-  "main": "question-3.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node question-3.js"
+    "start": "node index.js"
   },
   "author": "Nate Power",
   "license": "ISC"
