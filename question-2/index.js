@@ -1,5 +1,5 @@
 // Nathan Power - 101247770
-// GitHub Repo - https://github.com/nate-power/comp3123_test1
+// GitHub Repo - https://github.com/nate-power/101247770_comp3123_test1
 
 const resolvedPromise = () =>{
     return new Promise(function (resolve, reject) {
